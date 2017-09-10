@@ -1,0 +1,131 @@
+@font-face {
+  font-family: immortal;
+  src: url('fonts/immortal.ttf');
+}
+
+@font-face {
+  font-family: war-monger;
+  src: url('fonts/war-monger.ttf');
+}
+
+.jumbotron {
+  //background-color: #233237;
+  color: #984b43;
+  font-family: war-monger;
+  background-image: url('../img/jumbo.jpg');
+  background-size: 100%;
+  background-position: center;
+}
+
+.jumbotron h1 {
+  font-size: 90px;
+}
+
+.mainaudio {
+  margin-left: -20px;
+}
+
+body {
+  background-color: #18121e;
+  color: #1C1829;
+}
+
+#stats {
+  background-color: #984b43;
+  border-style: none;
+  margin-right: 20px;
+  margin-left: -5px;
+  margin-bottom: 10px;
+  font-family: immortal;
+  list-style-type: none;
+}
+
+#stats h3 {
+  margin-top: -10px;
+  font-family: war-monger;
+  font-size: 50px;
+}
+
+#stats h4 {
+  font-size: 16px;
+  margin-bottom: -3px;
+  //color: #eac67a;
+}
+
+#stats p {
+  font-size: 25px;
+}
+
+#stats img {
+  width: 90%;
+}
+
+#stats a {
+  color: #eac67a;
+  margin-left: 23px;
+}
+
+audio {
+  margin-bottom: 200px;
+}
+
+.progress {
+  background: #18121e;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  margin-top: -5px;
+}
+
+#story {
+  background-color: #eac67a;
+  border-style: none;
+  margin-right: -20px;
+  padding-bottom: 10px;
+}
+
+#story .btn {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+#messageDiv {
+  display: none;
+  font-family: immortal;
+  color: #984b43;
+}
+
+#messageDiv h4 {
+  font-size: 25px;
+}
+
+#storyImages img {
+  width: 450px;
+  padding: 20px;
+  float: right;
+  margin-right: 30px;
+  border-radius: 100px;
+}
+
+.messages {
+  font-family: immortal;
+  font-size: 20px;
+}
+
+button {
+  background-color: #18121e;
+  color: #eac67a;
+  font-family: immortal;
+}
+
+.try-again {
+  display: none;
+}
+
+.try-again-end {
+  display: none;
+}
+
+.mainaudio h4 {
+  color: #eac67a;
+  font-family: immortal;
+}
