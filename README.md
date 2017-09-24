@@ -37,9 +37,9 @@ _You are a weary traveler from a faraway land, in search of the ancient Flerbian
 
 ## Original Contributors
 
-**_Riki Montgomery_** _GitHub account [here](https://github.com/mostriki)_
-**_Sarah Lindmar_** _GitHub account [here](https://github.com/srhcrete)_
-**_Austin Cummings_** _GitHub account [here](https://github.com/austinawesome)_
+* _Riki Montgomery_ _GitHub account [here](https://github.com/mostriki)_
+* _Sarah Lindmar_ _GitHub account [here](https://github.com/srhcrete)_
+* _Austin Cummings_ _GitHub account [here](https://github.com/austinawesome)_
 
 ## Support and contact details
 
