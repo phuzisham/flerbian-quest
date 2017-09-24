@@ -38,12 +38,12 @@ Game.prototype.goToRoomByButton = function(button) {
   }
 
   if (button.hideButton) {
-    $('#'+button.hideButton).hide(800);
+    $('#' + button.hideButton).hide(800);
   }
 
   if (button.alertMessage) {
     $('#messageDiv').empty();
-    $('#messageDiv').append('<h4>'+button.alertMessage+'</h4>');
+    $('#messageDiv').append('<h4>' + button.alertMessage + '</h4>');
     $('#messageDiv').show(800);
     return;
   }
@@ -55,7 +55,6 @@ Game.prototype.goToRoomByButton = function(button) {
       $('#storyImages').fadeIn(800);
     });
   }
-
   this.goToRoom(roomToGoTo);
 };
 
@@ -87,9 +86,9 @@ Game.prototype.goToRoom = function(roomName) {
       window.$('#story .button-group').show(800);
     });
   } else {
-      window.$('.button-group').empty(800);
-      window.$('.try-again').show(800);
-      $('#storyImages').prepend('<img src="img/death.png">');
-      $("#storyImages img:last-child").remove();
-    }
+    window.$('.button-group').empty(800);
+    window.$('.try-again').show(800);
+    $('#storyImages').prepend('<img src="img/death.png">');
+    $("#storyImages img:last-child").remove();
+  }
 };

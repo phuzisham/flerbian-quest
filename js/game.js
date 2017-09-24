@@ -37,7 +37,7 @@ function Game() {
           text: 'Left Door',
           validatesInventoryFor: 'Torch',
           roomNameFailure: 'wet-tunnel-end',
-          roomNameSuccess: 'bat-room',
+          roomNameSuccess: 'bat-room'
         },
         {
           text: 'Right Door',
@@ -243,7 +243,7 @@ function Game() {
         {
           text: 'Give Apples',
           removesFromInventory: 'Apples',
-          roomName: 'tomb-shinigami',
+          roomName: 'tomb-shinigami'
         }
       ]
     },
@@ -282,13 +282,13 @@ function Game() {
           text: 'Search Room',
           addsToInventory: [['Key', 'A regular old key.'], [ 'Knife', 'Aim the pointy end at an enemy, and thrust.'], ['Wand-of-Fire', 'Burn them!']],
           alertMessage: 'You found a key, knife, and the Wand-of-Fire!',
-          hideButton: 'hideButton',
+          hideButton: 'hideButton'
         },
         {
           text: 'Go With Shinigami',
           validatesInventoryFor: 'Wand-of-Fire',
           roomNameFailure: 'temple-entrance-failure',
-          roomNameSuccess: 'temple-entrance-success',
+          roomNameSuccess: 'temple-entrance-success'
         }
       ]
     },
@@ -470,7 +470,7 @@ function Game() {
           text: 'Search The Shoreline',
           addsToInventory: [['Skeleton Key', 'Key made of real bone!']],
           alertMessage: 'You found a key!',
-          hideButton: 'hideButton',
+          hideButton: 'hideButton'
         },
         {
           text: 'Board a rickety boat',
@@ -552,7 +552,7 @@ function Game() {
     {
       name: 'Prison Pit',
       messages: [
-        'The floor crumbles beneath you, dank darkness envelops you.',
+        'The floor crumbles beneath you, dank darkness envelops you.'
       ],
       buttons: [
         {
