@@ -1,12 +1,17 @@
 # _Quest For The Flerbian Texts_
 
-#### _Spin off of a Group Project for Epicodus. Link to original contributors github accounts at bottom. Last modified: 09.24.2017_
+#### _Spin off of a Group Project for Epicodus. Link to original contributors github accounts at bottom._
+
+#### _Created: 09.24.2017_
+#### _Last Modified: 01.07.2018_
 
 #### By _David Hale_
 
 ## Description
 
 _You are a weary traveler from a faraway land, in search of the ancient Flerbian Texts. The future of your people is at stake in this story, a story as old as time. It will take more than a sharp wit and keen fighting skills to explore the treacherous catacombs of the land of Flerb and outmaneuver the mysterious beasts that haunt its darkest chambers. Monitor your supplies and your health closely as you move from level to level, but don't underestimate the consequences of your choices, for your demise will seem trivial compared to the immense suffering of your people. Failure is not an option._
+
+![Screenshot](https://github.com/phuzisham/flerbian-quest/blob/master/img/cap.png "Screen Capture")
 
 ## Specs
 
