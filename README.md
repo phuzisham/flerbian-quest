@@ -56,6 +56,6 @@ _HTML, CSS, JavaScript, Bootstrap, JSON, and JQUERY._
 
 ### License
 
-*MIT License}*
+*MIT License*
 
 Copyright (c) 2017 **_Sarah Lindmar, Austin Cummings, David Hale, and Riki Montgomery_**
