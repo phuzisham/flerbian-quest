@@ -197,7 +197,7 @@ function Game() {
         {
           text: 'Return To The River',
           roomName: 'river',
-          image: '.png'
+          image: 'waterfallRiver.jpg'
         }
       ]
     },
@@ -362,6 +362,7 @@ function Game() {
         {
           text: 'Attack!',
           roomName: 'temple-battle',
+          healthVar: -40,
           image: '.png'
         }
       ]
